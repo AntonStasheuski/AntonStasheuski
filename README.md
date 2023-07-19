@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Anton Stasheuski
-- 👀 I’m interested in snowboarding, footbal
-- 🌱 I’m currently learning DevOPS
 - 📫 How to reach me antonstashevski16@gmail.com
 
 <!---
